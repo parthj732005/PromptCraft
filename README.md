@@ -20,28 +20,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1AkF4GjqUWrvAgtbMmWqwtG
    `npm run dev`
 
 
------
-
-\<div align="center"\>
-\<img width="1200" height="475" alt="GHBanner" src="[https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)" /\>
-\</div\>
-
-\<h1 align="center"\>NeoCity Recruitment — Ghostwave\</h1\>
-
-\<p align="center"\>
-\<strong\>A single-page, static, immersive cyberpunk recruitment portal.\</strong\>
-\</p\>
-
-\<p align="center"\>
-This project is a purely fictional and aesthetic experience, drawing users into the world of "Ghostwave." It features an immersive UI and a tactile mini-game that assigns the user a gang role based on their performance.
-\</p\>
-
-\<p align="center"\>
-\<a href="[https://ai.studio/apps/drive/1AkF4GjqUWrvAgtbMmWqwtGsOy0fW0g0b](https://ai.studio/apps/drive/1AkF4GjqUWrvAgtbMmWqwtGsOy0fW0g0b)"\>\<strong\>View your app in AI Studio\</strong\>\</a\>
-\</p\>
-
------
-
 ## 🚀 Features
 
   * **Immersive Cyberpunk UI:** A rich, neon-drenched aesthetic with custom fonts (Orbitron, Fira Code), glow effects, scanlines, and glitch text animations to simulate a futuristic terminal.
